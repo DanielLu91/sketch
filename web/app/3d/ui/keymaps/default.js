@@ -8,5 +8,6 @@ export const keymap = {
   'menu.primitives': 'shift+A',
   'menu.main': 'space',
   'Save': 'ctrl+S',
-  'Info': 'F1'
+  'Info': 'F1',
+  'exporter': '1',
 }; 

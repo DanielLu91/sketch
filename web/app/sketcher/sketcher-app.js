@@ -269,6 +269,9 @@ function App2D() {
     app.fit();
     app.viewer.refresh();
   });
+  
+  this.registerAction('exporter', "export facesBody", function () {
+  });
 }
 
 App2D.views = [
